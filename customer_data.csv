@@ -1,0 +1,1001 @@
+name,age,gender,education,income,country,purchase_frequency,spending
+Teresa Williams MD,42,Female,High School,53936,Slovenia,0.9,13227.119999999999
+Christine Myers,49,Female,Master,82468,Aruba,0.6,12674.04
+Dwayne Moreno,55,Male,Bachelor,56941,Cyprus,0.3,5354.115
+Amy Norton,24,Female,Bachelor,60651,Palau,0.2,2606.51
+Tonya Adams,64,Male,Master,81884,Zambia,0.9,18984.780000000002
+Charles Smith,24,Female,PhD,61444,Libyan Arab Jamahiriya,1.0,18072.2
+Misty Moody,58,Male,PhD,78024,Italy,0.9,21511.08
+Brian Kent,34,Male,High School,32225,Pakistan,0.7,6727.875
+Stacie Ray,63,Male,PhD,63664,Venezuela,0.4,9273.28
+Brian Townsend,64,Female,High School,45043,San Marino,1.0,16252.15
+Samantha Bailey,32,Male,Bachelor,91170,Christmas Island,0.8,12446.800000000001
+Christopher Wright,23,Male,Master,86576,South Africa,0.8,11463.04
+John Harrington,24,Female,Master,36359,Nicaragua,0.9,12436.155
+Gregory Franklin,39,Male,Master,78325,Greenland,0.2,3783.25
+Jordan Garrett,56,Female,Master,95451,Indonesia,0.4,9509.02
+Barbara Fuller,36,Male,Bachelor,44475,Australia,0.1,1522.375
+Eric Rogers,57,Female,PhD,29055,India,0.2,4690.55
+Christopher Fleming,61,Male,Bachelor,25064,Mali,0.2,3250.6400000000003
+Sandra Wheeler,62,Female,Master,88392,Sri Lanka,0.4,9367.84
+Elizabeth Guzman,31,Female,Master,79056,Egypt,0.8,15162.24
+Kathleen Mata,60,Female,High School,62509,United Arab Emirates,1.0,17125.45
+Jack Perry,25,Female,Master,44953,Nauru,0.4,5699.06
+Tyler Silva,19,Female,High School,48896,Armenia,0.6,5666.879999999999
+Joy Carter,28,Female,PhD,28151,Iran,0.2,3881.51
+Jody Collins,27,Male,High School,95217,Faroe Islands,0.9,11484.765000000001
+Elizabeth Brown,56,Male,High School,36311,United States of America,0.4,5526.22
+Mrs. Brandy Tate,56,Male,PhD,31997,Svalbard & Jan Mayen Islands,0.6,12959.909999999998
+Janet Miller,25,Male,High School,45505,Ethiopia,0.3,2182.575
+Mary Smith,63,Male,PhD,47600,Albania,0.1,2238.0
+Denise Martin,61,Male,PhD,33303,El Salvador,0.5,10832.575
+Michael Brown,22,Male,High School,59460,Chad,0.6,4783.8
+Craig Thomas,45,Male,High School,86012,Palau,0.8,11440.480000000001
+Ashley Cain,20,Male,PhD,46129,Anguilla,0.5,7653.225
+Carolyn Wilson,40,Female,Bachelor,46661,Cocos (Keeling) Islands,0.1,1733.305
+Allison Chen,61,Male,Bachelor,64867,Cook Islands,0.9,16419.015
+Crystal Jacobson,34,Male,PhD,42913,Philippines,0.1,1814.5650000000003
+Rhonda Gordon,48,Female,Master,66812,Comoros,0.7,14238.419999999998
+Jenna Cowan,60,Female,Bachelor,93478,Maldives,0.1,2167.3900000000003
+Taylor Yang,47,Male,Master,25989,Palau,0.9,14669.505000000001
+Judy Moses,35,Male,Bachelor,83154,Holy See (Vatican City State),0.6,9094.62
+Eric Farmer,57,Female,Master,97368,Cook Islands,1.0,23868.4
+Meghan Hansen,26,Female,PhD,74318,United States Minor Outlying Islands,0.2,4343.18
+Susan Jones,18,Male,Master,40981,Equatorial Guinea,0.4,4819.62
+Mr. Anthony Powell Jr.,32,Female,PhD,94468,Estonia,0.7,15906.38
+Tony Hayes,20,Female,PhD,26131,Reunion,0.3,4891.964999999999
+Brianna Price MD,46,Male,Master,40668,Turkey,0.8,13626.720000000001
+Kelly Guerrero,51,Female,High School,25100,Kazakhstan,0.8,12204.0
+Kendra Cook,38,Female,PhD,26534,El Salvador,0.7,14928.689999999999
+Anthony Simpson,30,Male,Bachelor,21930,Cambodia,0.7,8467.55
+Nicole Simpson,61,Female,Master,20444,Bermuda,0.4,8008.880000000001
+Sydney Smith,18,Male,High School,44963,Maldives,0.2,1449.63
+Heather Wright,56,Male,Master,56697,Cambodia,0.3,5950.454999999999
+Margaret Taylor,24,Female,PhD,30662,Kyrgyz Republic,0.1,1653.31
+Charles Mitchell,35,Female,High School,53618,Dominican Republic,0.3,3804.2699999999995
+David Harris,59,Female,High School,40242,Greenland,0.5,8006.05
+Kim Perry,19,Male,High School,46966,Aruba,0.5,3674.15
+Ashley Chambers,53,Female,Master,94379,Sierra Leone,0.1,2371.895
+Linda Saunders,65,Female,PhD,77074,Isle of Man,0.6,15512.22
+Amber Jensen,52,Male,Bachelor,69227,Christmas Island,1.0,18461.35
+Joseph Mitchell,36,Male,Bachelor,39794,Guadeloupe,0.5,7494.85
+Brittney Wright,39,Female,Master,32282,Guam,0.6,11168.46
+Derek Ibarra,57,Male,High School,55339,Holy See (Vatican City State),0.3,4430.085
+William Torres,27,Female,Master,71746,Mauritius,0.9,16728.57
+Melissa Green,26,Female,High School,82660,Cocos (Keeling) Islands,0.4,5653.200000000001
+Harry Hodges,21,Female,Bachelor,88557,Isle of Man,0.2,2885.57
+Timothy Shaffer,37,Female,Master,59220,San Marino,0.7,13972.699999999999
+Chase Bryant,24,Male,PhD,82128,United Kingdom,0.6,10263.84
+Kristen Mccoy,39,Male,PhD,35205,Chile,0.8,15808.2
+Tamara Morgan,45,Male,Master,63919,Ghana,0.3,5458.785
+Stephanie Clayton,28,Female,High School,28629,Northern Mariana Islands,0.2,2286.2900000000004
+Erika Lowery,30,Male,High School,70438,Yemen,0.1,1152.19
+Richard Sanford,24,Female,Master,78791,Gibraltar,0.8,12751.64
+Vanessa Hernandez,55,Male,PhD,30965,San Marino,0.6,12928.949999999999
+Jason Neal,32,Female,Bachelor,76521,Grenada,0.4,6730.42
+Cameron Shields,40,Male,High School,23620,Bolivia,0.9,10062.9
+Ashley Rodriguez,46,Male,High School,85154,Tajikistan,0.7,9980.39
+Karen Jackson,34,Male,High School,48297,Saint Vincent and the Grenadines,1.0,10414.85
+Jonathan Sullivan,27,Male,Bachelor,80084,Palau,0.7,10502.94
+Margaret Olson,41,Male,High School,98150,Somalia,0.8,11926.0
+Thomas Watson,27,Female,PhD,88318,Libyan Arab Jamahiriya,0.8,17932.72
+Ms. Megan Lucas,61,Female,PhD,85358,Norfolk Island,0.4,10507.160000000002
+Stephanie Smith,52,Male,High School,64593,Gambia,0.6,9137.789999999999
+Courtney Young,38,Male,Bachelor,53670,Bouvet Island (Bouvetoya),1.0,15683.5
+Thomas Miller,27,Female,Master,81660,Togo,0.2,3816.6000000000004
+Mrs. Sabrina Weaver MD,23,Male,High School,49503,Chad,0.3,2242.5449999999996
+Tracy Shaw,20,Female,High School,78797,United States Minor Outlying Islands,0.6,6563.91
+Vanessa Fox,28,Male,PhD,68669,Comoros,0.9,17490.105
+Jessica Oliver,42,Male,High School,87895,Togo,1.0,14394.75
+Benjamin Coleman,22,Female,Bachelor,57966,British Indian Ocean Territory (Chagos Archipelago),0.9,11608.47
+Susan Perez,56,Female,PhD,70930,Spain,1.0,25546.5
+Shannon Lloyd,55,Male,High School,20031,Papua New Guinea,0.3,3900.4649999999997
+Jessica Sanders PhD,37,Female,Master,28601,Burundi,0.8,14744.04
+Connor Aguirre,34,Female,PhD,70352,Kenya,0.7,15062.319999999998
+Betty Sanders DVM,21,Male,Bachelor,51319,North Macedonia,0.5,5282.975
+Joshua Holland,64,Female,High School,24709,Denmark,0.8,12188.36
+Bradley Lewis,44,Male,PhD,98900,Chile,0.2,4589.0
+Lisa Myers,61,Male,Master,73888,Lithuania,0.1,2069.44
+Lindsay Fisher,57,Female,PhD,80146,Bahrain,0.1,2600.73
+Kevin Torres,24,Female,Bachelor,22651,Tuvalu,0.1,1113.2549999999999
+Jessica Flores,56,Male,Master,33800,Venezuela,0.9,16821.0
+Ashley Fry,59,Female,Bachelor,70254,Nauru,0.8,16410.16
+Todd Deleon,25,Male,PhD,64284,Greenland,0.2,3242.84
+Samuel Simon,61,Female,Bachelor,70809,Gabon,0.5,10270.225
+Randall Jackson,65,Male,Bachelor,25004,Taiwan,0.7,11375.14
+Jessica Flowers,46,Female,Bachelor,79699,Ireland,0.6,11390.97
+Tiffany Sutton,58,Male,High School,25240,Singapore,0.8,10609.6
+Cheryl Lane,34,Male,Bachelor,50101,Somalia,0.2,2701.01
+Jacob White,58,Female,Master,34869,Paraguay,0.3,6223.035
+Larry Reyes,45,Female,High School,33731,Spain,0.7,9580.585
+Diana Jones,22,Male,PhD,40467,British Virgin Islands,0.1,1502.335
+Derrick Williams,46,Female,PhD,23949,Palau,0.8,16957.960000000003
+Mrs. Peggy Weaver,38,Female,High School,66203,Honduras,0.2,3062.03
+Kaylee Moore,25,Female,High School,65278,United Kingdom,0.6,6158.339999999999
+Sean Hughes DDS,29,Male,Bachelor,67946,Gambia,0.2,2879.46
+Erika Bush,56,Male,Bachelor,20423,Iceland,0.4,6408.46
+Kelly Morris,60,Male,High School,58438,Cook Islands,0.6,8953.14
+Chelsey Garcia,62,Male,Bachelor,38597,Saint Vincent and the Grenadines,0.3,5078.954999999999
+Barbara Thompson,47,Male,PhD,65147,Nigeria,0.5,10628.675
+Kevin Cole,26,Male,Bachelor,67479,Azerbaijan,0.6,8624.37
+Richard Scott,48,Female,Master,92509,Iceland,0.6,12975.27
+Rodney Miller,29,Male,High School,89891,Ukraine,1.0,12494.55
+Richard Harris,37,Male,PhD,39257,Bahrain,0.3,5988.855
+Jonathon Powell,32,Female,Bachelor,51019,French Guiana,0.3,4665.285
+Michael Brown,36,Female,PhD,26062,Guatemala,0.3,6390.929999999999
+Peter Reid,56,Male,PhD,30213,Brazil,0.2,4302.13
+Destiny Singh,26,Female,Master,92191,Namibia,0.7,13726.685
+Brent Rich,65,Male,PhD,59063,Greenland,0.6,13771.890000000001
+Seth Johnson,23,Male,PhD,68399,Congo,0.9,14777.955000000002
+James David,21,Female,PhD,21104,Gambia,0.7,11238.64
+Alice Torres,64,Female,PhD,46737,Niue,0.6,14602.109999999999
+Paul Lopez,36,Female,High School,44308,Hong Kong,0.2,2843.08
+Anna Carter,35,Male,Bachelor,78479,French Southern Territories,0.7,10446.765
+Benjamin Smith,29,Female,PhD,42903,Guinea-Bissau,0.4,8058.060000000001
+Richard Barnes,47,Female,Bachelor,66578,Jersey,0.8,14663.120000000003
+Jonathan Michael,58,Male,PhD,46691,Panama,0.5,11167.275
+Anthony Bell,18,Female,PhD,21019,Djibouti,0.4,6420.380000000001
+Ashley Riggs,37,Male,Master,91461,Ecuador,1.0,19573.05
+Jeffrey Hardy,27,Female,PhD,32131,Gibraltar,0.8,15685.24
+Robin Miller,32,Female,Master,22833,American Samoa,0.2,3228.33
+Rebecca Hammond,35,Male,High School,53629,Philippines,0.7,7477.015
+Thomas Perez,51,Female,PhD,33373,Angola,0.5,11834.325
+Kristin Collins,40,Female,Bachelor,98041,Saudi Arabia,0.2,3980.41
+Caitlyn Nguyen,20,Male,Master,60056,Lesotho,0.9,11702.52
+Emily Williams,39,Male,Bachelor,41437,Norway,0.2,3014.3700000000003
+Jessica Walker,44,Female,Master,88135,Benin,0.3,6422.025
+David Jones,54,Male,High School,73844,Guatemala,0.9,14122.980000000001
+Kristi Stevens,43,Female,Master,77981,Bangladesh,0.6,12539.429999999998
+Michelle Jordan,54,Male,Bachelor,36160,Liechtenstein,0.2,3361.6000000000004
+Alexis Ortega,42,Female,PhD,38288,Denmark,0.9,19722.960000000003
+Cheyenne Wright,60,Female,Master,81953,Honduras,0.7,16168.355
+Ashley Rodriguez,31,Female,PhD,85741,Paraguay,0.6,13372.23
+John Schmitt,49,Male,PhD,59345,Hong Kong,0.3,6290.175
+Renee Shelton,65,Female,High School,48274,Mayotte,0.1,1641.3700000000001
+John Ford,40,Female,PhD,21325,Namibia,0.9,18959.625
+Dawn Carter,22,Male,PhD,20841,Belgium,0.6,8425.23
+Marcus Walker,20,Male,High School,55432,Palau,0.5,3885.8
+Sharon Haney,64,Male,Bachelor,95084,Djibouti,0.5,9877.1
+Terri Miller,30,Male,PhD,80410,Belgium,0.6,12012.3
+Kathy Lee,42,Male,Master,75274,Anguilla,0.7,13134.59
+Melissa Moore,27,Female,Bachelor,88702,Moldova,0.6,10461.06
+Rachel Evans,26,Male,Bachelor,78212,Burundi,0.6,8946.36
+Adam Murray,42,Female,PhD,71057,Netherlands,0.4,9421.14
+Melinda Murphy,30,Female,Bachelor,96877,Moldova,0.1,1784.385
+James Johnson,42,Male,Bachelor,31096,Kuwait,0.3,4366.44
+Angela Walter,41,Male,Bachelor,50548,Iceland,1.0,15527.4
+Andrew Morris,37,Male,Master,66277,Vietnam,0.7,12819.694999999998
+Patrick Wiggins,47,Male,PhD,96147,Cocos (Keeling) Islands,0.8,18245.88
+Tom Baker,49,Female,PhD,48235,Micronesia,0.6,13447.05
+Clayton Garrison,35,Male,High School,26888,United States of America,0.3,2803.3199999999997
+Matthew Smith,40,Male,Master,20934,Myanmar,0.3,4814.01
+Ashley Maldonado,22,Female,Bachelor,99775,Armenia,0.7,10492.125
+Adam Ortiz,53,Male,PhD,45277,Panama,0.6,13358.31
+Scott Gray,56,Male,High School,61815,Haiti,0.6,9054.449999999999
+Scott Wilcox,52,Female,Master,53488,Somalia,0.1,2167.44
+Amy Cannon,51,Male,Bachelor,68326,Tokelau,0.2,3683.26
+Daisy Walter,31,Female,Bachelor,46426,Christmas Island,0.5,7660.65
+John Koch,61,Female,Master,87751,Liechtenstein,0.7,16371.284999999998
+Anthony Castillo,34,Female,Master,51452,American Samoa,0.1,1757.26
+Michael Griffin,37,Male,High School,80415,Slovenia,0.8,11216.6
+Julia George,64,Female,High School,74017,French Polynesia,0.8,14160.68
+Kevin Huff,47,Female,High School,31221,Chad,0.2,2712.21
+Omar Suarez,33,Male,Bachelor,74265,Cote d'Ivoire,0.4,5885.3
+Kathleen Barton,46,Male,PhD,93270,Brazil,0.7,15864.449999999999
+Vanessa Stevens,20,Male,Bachelor,84227,Yemen,0.4,4884.54
+Marcus Brown,26,Female,Master,61890,Central African Republic,0.7,12666.15
+Jeffrey Haley,24,Female,Bachelor,58881,Mayotte,0.8,10355.24
+David Myers,50,Female,Master,55723,Paraguay,0.4,7914.460000000001
+Felicia Fisher,19,Male,High School,42619,Malawi,0.7,4991.665
+Ashley Curtis,33,Male,Master,20844,Algeria,0.9,12637.980000000001
+Troy Mendoza,50,Female,High School,35963,Morocco,0.7,9658.705
+Leonard Acevedo,59,Female,High School,94012,Reunion,0.6,11220.359999999999
+Kelly Ritter,32,Female,Bachelor,51475,Mayotte,0.2,3114.75
+Tom Gonzales,51,Female,Master,50618,Afghanistan,0.6,12918.54
+Elizabeth Benson,58,Female,Master,96291,Singapore,0.3,7144.365
+Bradley Chavez,26,Male,Master,68101,Albania,1.0,16405.05
+Kristen Davis,58,Male,Bachelor,71849,Argentina,0.3,5577.735
+Debra Hogan,29,Male,Bachelor,47066,Ethiopia,0.8,10682.64
+Derek Garcia,54,Male,Bachelor,37318,Bolivia,0.4,6746.360000000001
+Kevin Kemp,42,Female,Bachelor,85334,Heard Island and McDonald Islands,0.2,3853.34
+Johnny Johnson,57,Male,Master,84120,Norway,0.8,16964.8
+Jeremy Peters,37,Male,Bachelor,92813,Nicaragua,0.3,5292.195000000001
+Jeffrey Ramos DDS,60,Female,PhD,91569,Western Sahara,0.6,15947.07
+Christopher Nichols,63,Male,Master,38015,Western Sahara,1.0,18900.75
+Mary Jones,43,Male,Master,58237,United States of America,0.7,12538.294999999998
+Carl Carter,21,Male,High School,61308,Kyrgyz Republic,0.4,3226.16
+Carrie Nichols,39,Female,Bachelor,54092,Costa Rica,0.6,10622.759999999998
+Anthony Paul,60,Male,Master,22225,Algeria,0.6,10866.75
+Mary Robbins,54,Male,Bachelor,66323,Serbia,0.1,1831.6150000000002
+Caleb Smith,49,Male,High School,51649,Malawi,0.1,1258.2450000000001
+John Reed,18,Male,Master,28722,Fiji,0.1,1143.6100000000001
+James Mayer,40,Female,Bachelor,48380,Puerto Rico,0.8,13935.2
+Mary Powell,45,Male,Master,60888,Oman,0.3,5413.320000000001
+Russell Olson,59,Female,PhD,70157,Montserrat,0.1,2550.785
+Jennifer Johnson,44,Female,PhD,25497,Lithuania,1.0,21274.85
+Luis Reed,25,Female,PhD,42454,Czech Republic,0.1,1712.2700000000002
+Kevin Burch,50,Male,Bachelor,30439,Timor-Leste,0.6,8713.17
+Joshua Munoz,33,Male,Bachelor,22880,Belarus,0.3,3643.2
+Shelby Arnold,65,Male,High School,75990,Tokelau,1.0,15799.5
+Victoria Montes,24,Female,Bachelor,98901,Cyprus,0.1,1494.505
+James Nguyen Jr.,34,Female,PhD,23573,Colombia,0.1,1917.8650000000002
+Danielle Fuentes,49,Male,Master,58369,Sao Tome and Principe,0.3,5375.535
+Theresa Garcia,47,Male,Master,41270,Estonia,0.7,11944.449999999999
+Rebecca Whitaker,39,Female,PhD,71457,Germany,0.1,2357.285
+Andrea Lin,37,Female,PhD,24578,French Southern Territories,0.9,19106.010000000002
+Jamie Lee,54,Female,High School,79758,Philippines,0.7,12591.53
+Michelle Williams,64,Male,PhD,65428,Falkland Islands (Malvinas),0.8,18617.120000000003
+Carol Oliver,21,Male,Master,24492,Tuvalu,0.5,5612.3
+Christopher Sherman,61,Female,Bachelor,89372,Saint Vincent and the Grenadines,0.9,19321.739999999998
+Jennifer Hunter,39,Female,Master,47390,Azerbaijan,0.2,3873.9
+Stephen Brewer,54,Female,Bachelor,96827,Monaco,0.9,19657.215
+Danielle Todd,61,Female,Bachelor,40061,Iran,0.6,11401.83
+Gregory Moore,65,Male,High School,94038,Liechtenstein,0.3,5010.570000000001
+Alexandra Diaz,40,Female,Master,58459,Bangladesh,0.6,11953.77
+Tabitha Gonzales,49,Female,PhD,42286,Sao Tome and Principe,0.1,2211.43
+Kevin Baker,27,Male,PhD,36495,Taiwan,0.6,10694.85
+Nicole Williams,18,Female,Master,44596,Uruguay,0.2,2845.96
+Curtis Beasley,53,Female,Master,42784,Timor-Leste,0.9,19025.280000000002
+John Guzman,28,Male,Bachelor,95980,Somalia,0.2,3159.8
+Sarah Hernandez,50,Female,PhD,54833,El Salvador,0.5,11370.825
+Benjamin Brown,36,Male,PhD,56757,Austria,0.5,10418.925
+Diane Small DVM,52,Female,Master,44902,Finland,0.7,14871.569999999998
+Ashley Bird,27,Male,Bachelor,93830,Belize,0.7,10984.05
+Susan Pham,41,Female,High School,93609,Dominica,0.7,11676.315
+Kathleen Rodriguez,58,Male,High School,67477,Russian Federation,0.9,13836.465
+Stephanie Jones,28,Male,Master,85141,Slovenia,0.1,1725.705
+Abigail Shaw,64,Male,Bachelor,55975,Senegal,0.3,5339.625
+Samantha Saunders,44,Male,PhD,51029,Austria,0.8,16441.16
+Lisa Brown,50,Male,Bachelor,41559,Belize,0.8,12062.36
+Mary Smith,22,Female,PhD,55632,Ukraine,0.5,8890.8
+Timothy Adkins,45,Female,Master,31878,Gambia,0.5,9296.95
+Michele Chang,19,Female,High School,52841,Benin,0.4,3856.8199999999997
+Andrea Russell,43,Female,PhD,71021,Vanuatu,0.1,2355.105
+Kimberly Craig,55,Female,Master,94552,Heard Island and McDonald Islands,0.3,7118.28
+Charles Moore,54,Female,Master,23185,Kuwait,0.7,14111.474999999999
+Mary Miranda,48,Male,High School,30680,Tuvalu,1.0,11534.0
+Emily Nixon,40,Female,High School,29092,Japan,0.4,5381.84
+Patricia Villarreal,63,Male,PhD,25651,United States Minor Outlying Islands,0.6,12769.529999999999
+David Kirby,19,Female,PhD,36419,New Caledonia,0.5,8410.475
+Brandon Jackson,44,Male,Bachelor,72979,Slovakia (Slovak Republic),0.5,8324.475
+April Meyer,50,Male,Bachelor,36434,Guadeloupe,0.3,4446.51
+John Green,48,Male,High School,92737,Guinea-Bissau,0.7,10245.795
+Tonya Gamble,29,Female,High School,30581,Cambodia,0.9,10376.145
+Michael Davis,29,Female,Bachelor,54205,South Africa,0.6,9426.15
+Brittney Ball,62,Female,Master,87821,Marshall Islands,0.8,18712.84
+Emily Garcia,27,Female,Bachelor,25059,New Zealand,1.0,14252.95
+Isaiah Weaver,29,Male,Master,29390,Angola,0.4,5787.8
+Jennifer Ramirez,59,Female,Bachelor,80118,Gambia,0.9,18905.31
+Daniel Chen,28,Female,Bachelor,82453,Netherlands,0.9,15410.385000000002
+Grace Howard,21,Male,Master,20322,Cayman Islands,0.2,2203.2200000000003
+Tonya Thomas,24,Female,Master,94746,United States Minor Outlying Islands,0.8,13389.84
+Ryan Johnson,39,Female,Master,35577,Burundi,0.3,5633.655
+Leah Wilson,38,Male,Bachelor,36397,Djibouti,0.1,1481.9850000000001
+Christopher Walker,39,Male,High School,74242,Slovenia,0.1,1371.21
+Jason Meyers,62,Female,PhD,26846,Palau,1.0,23342.3
+Lisa Carter,63,Male,Master,30147,Saint Kitts and Nevis,0.7,12955.144999999999
+Jill Ward,21,Female,Master,99186,Switzerland,1.0,16959.3
+Bruce Ramirez,34,Female,PhD,74031,Sierra Leone,0.3,6510.464999999999
+John Swanson,19,Female,Master,44968,Ukraine,0.7,9973.88
+Kenneth Vazquez,22,Female,High School,36169,Afghanistan,0.1,880.8450000000001
+Andrew Collier,40,Male,Bachelor,72922,Serbia,1.0,16646.1
+Jason Pollard,62,Male,Master,79831,Gabon,0.9,18892.395
+Cathy Hunter,65,Female,PhD,30544,Togo,0.1,2352.7200000000003
+Bradley Rice,52,Female,Master,23643,Belgium,0.9,18163.935
+Brian Hamilton,24,Male,Master,66995,Spain,0.2,2669.9500000000003
+Amber Moreno,48,Male,Bachelor,87711,Bouvet Island (Bouvetoya),0.5,8692.775
+Michael Snyder,20,Male,PhD,64261,Northern Mariana Islands,0.3,4863.915
+Jeremy Hogan,53,Male,Bachelor,42887,Netherlands Antilles,0.3,5143.304999999999
+Nicole Long,58,Male,Master,23125,Senegal,0.8,14525.0
+Glenda Watson,58,Female,High School,49678,Liberia,0.4,6593.560000000001
+Veronica Adams,58,Female,Master,42284,Ukraine,0.4,8445.68
+Dennis Watson,40,Male,Bachelor,75148,Niue,0.8,13405.920000000002
+Sandra Garner,41,Male,PhD,94044,Bouvet Island (Bouvetoya),0.1,2270.2200000000003
+Michael Bishop,28,Male,PhD,42539,Ethiopia,0.3,5438.085
+Ryan Hunter,19,Male,Master,86858,Estonia,0.1,1434.2900000000002
+Christopher Mendoza,20,Male,High School,95104,Hong Kong,1.0,9755.2
+Jesus Stewart,27,Male,PhD,23465,Croatia,0.7,12021.275
+Breanna Griffin,45,Female,Bachelor,38065,China,0.6,10141.949999999999
+Karen Sanders,50,Male,PhD,29574,Nigeria,0.3,5843.61
+Christopher Knox,44,Female,High School,76562,Lesotho,0.7,11079.67
+Laurie Willis,33,Female,PhD,49495,Slovenia,0.7,14332.324999999999
+Terri Lara,33,Female,PhD,96202,Brazil,0.2,4562.0199999999995
+Clifford Haynes,34,Female,Master,91085,Zimbabwe,0.1,1955.4250000000002
+Amy Petty,56,Female,Bachelor,56212,Cyprus,0.1,1981.06
+Matthew Lopez,57,Female,PhD,33980,Afghanistan,0.9,21329.100000000002
+Amanda Rice,21,Male,PhD,23512,Bosnia and Herzegovina,0.7,9922.92
+Sylvia Lee,64,Female,PhD,33738,Algeria,0.8,18949.52
+Leslie Sullivan,56,Female,Bachelor,42230,Puerto Rico,0.6,11466.9
+Lisa Reyes,48,Female,Bachelor,97359,Jersey,0.5,9933.975
+Mr. Curtis Kemp,50,Male,Master,65274,Philippines,0.3,5479.11
+Roberta Morgan,58,Female,PhD,87989,British Indian Ocean Territory (Chagos Archipelago),0.1,2639.945
+Erik Brown,30,Female,Bachelor,96504,Aruba,0.6,10695.12
+Todd Gonzalez,36,Female,High School,58156,Tokelau,0.9,13417.02
+Jennifer Taylor,45,Male,PhD,55267,Turkmenistan,0.7,14534.344999999998
+Ana Ryan,64,Male,Master,37584,Liberia,0.3,5663.76
+Dr. Robert King Jr.,25,Female,Bachelor,24092,Central African Republic,0.7,7843.219999999999
+Ian Moon,54,Female,PhD,29983,Northern Mariana Islands,0.2,4699.830000000001
+Jason Wagner,45,Male,Bachelor,40049,Lao People's Democratic Republic,0.4,6000.9800000000005
+Jacob Adkins,28,Male,High School,88852,Tanzania,0.3,3732.7799999999997
+Thomas Anderson,49,Female,Master,63931,Monaco,0.2,4039.31
+Maria Patel,44,Female,Bachelor,64888,Kiribati,0.9,16419.960000000003
+Michelle Rivera,39,Male,PhD,92807,Andorra,0.5,11320.175
+Zachary Romero,33,Female,Master,71152,Sweden,0.8,14846.08
+George Walker,50,Female,PhD,73254,Palestinian Territory,0.2,4732.54
+Amanda Walker,61,Male,Bachelor,20644,Poland,1.0,16032.2
+Mr. Richard Barry Jr.,56,Male,Bachelor,98090,Niue,1.0,19904.5
+Lindsey Rodriguez,50,Male,Master,42103,Nigeria,0.7,11973.605
+Deborah Vasquez,23,Male,High School,35125,Colombia,0.6,4053.75
+Matthew Leach,64,Female,Master,34174,Pitcairn Islands,0.8,16566.960000000003
+Jeremy Thomas,41,Female,PhD,49978,Guinea,0.3,6749.67
+Jessica Hall,53,Male,Bachelor,23379,American Samoa,0.3,4850.685
+Christopher Owens,51,Female,Bachelor,77433,Saint Barthelemy,0.7,14610.155
+Sydney Molina,34,Male,Bachelor,70884,Kiribati,0.3,4363.26
+Christopher Allen,46,Male,PhD,31376,Mauritius,1.0,19568.8
+Nancy Wright,43,Female,Bachelor,86426,Taiwan,0.8,15457.04
+Jaime Rodgers,20,Female,High School,55217,Kyrgyz Republic,0.9,8784.765000000001
+Joyce Cook,49,Female,PhD,54774,Cyprus,0.3,6821.61
+Alex Sanchez,32,Female,Bachelor,59643,Burundi,1.0,15982.15
+Willie Lawson PhD,27,Female,High School,28977,Bouvet Island (Bouvetoya),0.8,9159.08
+Russell Young,43,Female,High School,54803,Madagascar,0.8,11792.12
+Matthew Rojas,32,Male,Master,38490,Northern Mariana Islands,0.6,8954.699999999999
+Mark Burton,24,Male,High School,37931,Singapore,1.0,6896.55
+Jennifer Li,53,Male,High School,24333,Malawi,0.7,9251.654999999999
+Joseph Ramos,53,Female,High School,81992,Turkmenistan,0.9,16289.64
+Christopher Owen MD,40,Female,High School,20674,Mongolia,0.4,5213.4800000000005
+Rebekah Dorsey,32,Female,Master,55973,Korea,0.4,7119.460000000001
+Hunter Phillips,18,Female,Master,86712,Mongolia,0.6,9801.36
+Diane Evans,23,Male,Master,95191,British Indian Ocean Territory (Chagos Archipelago),0.7,10331.685
+Eric Allen,32,Female,PhD,39067,Marshall Islands,0.4,7981.34
+Sierra Harmon,36,Male,PhD,67076,Eritrea,0.5,10676.9
+Aimee Mitchell,42,Male,High School,72585,Gambia,0.6,8177.549999999999
+Kyle Gilmore,50,Female,Bachelor,69012,Lithuania,0.6,11070.359999999999
+Andrew Cook,45,Female,Master,72543,Armenia,0.5,10313.575
+Joseph Wilson,24,Female,Master,35810,Turks and Caicos Islands,0.8,11032.400000000001
+Randy Ramirez,27,Female,Bachelor,44502,South Africa,0.6,9135.06
+Hannah Gibson,49,Male,High School,70319,Egypt,0.7,9461.164999999999
+Michael Watson,47,Female,Bachelor,72335,Uruguay,0.9,16755.075
+Dr. John Moore,37,Female,Bachelor,61225,Slovenia,0.9,16255.125
+Jason Thomas,61,Male,High School,81835,Wallis and Futuna,0.6,9655.05
+Austin Johns,43,Male,PhD,26373,Hungary,1.0,19318.65
+Derek Miranda,20,Female,High School,54532,French Southern Territories,0.4,3890.6400000000003
+Brandon Gardner,64,Female,Bachelor,34825,Solomon Islands,0.3,5622.375
+Walter Simmons,62,Female,High School,50635,Lesotho,0.1,1653.1750000000002
+Michael Mason,18,Female,High School,36994,Cocos (Keeling) Islands,0.2,1769.9400000000003
+Stanley Thomas,56,Male,High School,81091,Eritrea,0.4,6421.82
+Robert Roman,18,Female,High School,90376,Timor-Leste,0.3,3455.64
+Kenneth Evans,32,Male,PhD,70060,Guatemala,0.8,15602.400000000001
+Edward Ewing,18,Female,Bachelor,69970,Fiji,0.1,1349.8500000000001
+Raymond Adkins,57,Female,High School,96390,Tonga,0.6,11291.699999999999
+Hayley Powell DVM,63,Female,Master,79495,Iraq,0.3,6892.425
+Lindsay Hopkins,56,Male,Master,33534,Tonga,0.2,3735.34
+Maria Torres,35,Male,Bachelor,37813,Croatia,0.7,9023.455
+Jeffrey Moreno,31,Female,Bachelor,75203,Gabon,0.9,15084.135000000002
+James Owens,50,Male,High School,82208,Pakistan,0.2,2822.0800000000004
+Rebecca Blevins,50,Female,PhD,43419,Norway,0.8,17736.760000000002
+Chelsea French,53,Female,Bachelor,74554,Cape Verde,0.5,10363.85
+Andrew Farmer,42,Male,Master,50613,Anguilla,0.8,14024.520000000002
+Lisa Romero,33,Female,PhD,73776,Trinidad and Tobago,0.1,2168.88
+Dominic Vargas,46,Male,PhD,78468,Mozambique,0.4,8769.36
+Ebony Howell,45,Male,Master,82551,Bahamas,0.8,15302.04
+William Powell,27,Male,PhD,57161,Afghanistan,0.6,11314.83
+Christopher Woods,59,Female,Bachelor,88469,Germany,0.2,4284.6900000000005
+Micheal Williams,30,Female,High School,27732,Maldives,0.3,3415.98
+Thomas Williams,39,Male,Master,41018,Nigeria,0.8,13640.720000000001
+Jared Adams,42,Male,PhD,85024,Aruba,0.4,8900.480000000001
+Tracy Johnston,28,Female,High School,64428,Austria,0.9,11899.26
+Laura Carter,30,Female,Bachelor,88053,Saint Barthelemy,0.9,15662.385000000002
+Rebecca Palmer,63,Female,Bachelor,84676,Greece,1.0,21233.8
+Adrienne Buchanan,31,Female,High School,51846,Svalbard & Jan Mayen Islands,0.8,10073.84
+Matthew Perry,56,Female,Bachelor,20067,Taiwan,0.1,1800.335
+Richard Johnson,21,Male,Bachelor,78093,Philippines,1.0,11904.65
+Olivia Johnson,32,Male,PhD,57538,North Macedonia,0.6,11326.140000000001
+Richard Michael,49,Male,Bachelor,68842,Mongolia,0.9,14797.89
+Miguel Fowler,40,Female,PhD,77527,Botswana,0.6,14325.81
+Virginia Huynh,47,Male,Bachelor,48806,Guyana,0.2,3088.06
+Jerry Warren,27,Female,PhD,90856,Hong Kong,0.4,9017.12
+Bradley Lowe,41,Male,High School,73233,Guadeloupe,0.4,5464.66
+Daniel Kennedy,23,Female,PhD,90889,New Caledonia,0.4,7817.780000000001
+Jason Munoz,58,Male,Bachelor,89578,Guam,0.8,15583.120000000003
+Andrew Gould,37,Female,High School,30260,Myanmar,1.0,13513.0
+Gary Smith,64,Female,High School,46732,Swaziland,0.7,11435.619999999999
+Katherine Grant,57,Female,Master,30972,Algeria,0.1,2054.86
+Anthony Brown,33,Male,Master,40103,Portugal,0.8,12004.12
+Paul Williams,34,Male,PhD,56497,Tanzania,0.4,7529.94
+Robin Solis MD,42,Female,Master,49924,Norway,1.0,19496.2
+Elizabeth Castillo DVM,34,Male,High School,40288,Belgium,0.6,6008.639999999999
+Antonio Rodriguez,58,Female,High School,89116,Bahamas,0.8,14764.64
+John Kelly,45,Female,PhD,23183,Germany,0.2,4231.830000000001
+Michael Stone,45,Male,Bachelor,24079,South Africa,0.2,2840.7900000000004
+Tara Bean,63,Female,Bachelor,24166,Kuwait,0.5,9104.15
+Joshua Brown,34,Female,High School,65065,Belize,0.5,6626.625
+Derrick Miller,41,Male,High School,64400,Germany,0.9,11898.0
+Kelly Beck,53,Male,Bachelor,84940,Slovenia,0.1,1924.7
+Shaun Barnett,58,Female,Master,38044,Saint Vincent and the Grenadines,0.6,12541.32
+Jody Williams,24,Female,High School,52967,Turkey,1.0,9648.35
+Sheryl Cook,24,Male,Bachelor,83605,Cuba,0.1,1218.025
+Joseph Caldwell,51,Male,Master,32689,Algeria,0.9,16771.005
+Morgan Williams,63,Male,Bachelor,50166,British Indian Ocean Territory (Chagos Archipelago),0.7,12255.81
+Jeffrey Nicholson,30,Female,Master,40704,Poland,0.5,8517.6
+Erin Proctor,64,Female,Bachelor,48320,Czech Republic,0.8,15532.800000000001
+Nicholas Moore,38,Male,Master,93544,Togo,0.1,1967.7200000000003
+Jonathon Lara,23,Female,Master,62371,Barbados,0.1,1511.855
+Carla Nielsen,23,Male,Master,35028,Gabon,0.3,3525.4199999999996
+Scott Thompson,63,Female,Bachelor,87201,Chile,0.9,19224.045
+Seth Vaughan,40,Female,High School,74344,Central African Republic,0.9,14145.480000000001
+Alexandra Baker,52,Female,High School,30534,Sri Lanka,1.0,15526.7
+Tony Jones,47,Female,Bachelor,58871,Netherlands Antilles,0.4,7177.42
+Thomas Young,58,Female,Master,24108,United States of America,0.1,2020.5400000000002
+Debra Fleming,18,Female,High School,61040,Zambia,0.6,6031.2
+Emily Ortiz,53,Female,High School,52612,Andorra,0.9,14967.539999999999
+Jennifer Hayes,26,Female,High School,70936,Congo,0.7,9482.759999999998
+David Simmons,35,Male,Master,60992,Cook Islands,0.9,14444.640000000001
+Samantha Jones,49,Female,High School,75529,Palau,0.6,9465.87
+Taylor Peterson,28,Male,Bachelor,82563,Congo,0.7,10589.705
+Joshua Grant,19,Male,High School,60409,Fiji,0.2,1604.0900000000001
+David Lee,29,Male,PhD,21991,Svalbard & Jan Mayen Islands,0.6,10259.73
+Virginia Wolfe,51,Female,High School,89118,Cote d'Ivoire,0.4,7382.360000000001
+William Davidson,49,Female,Master,72981,Saint Martin,0.7,14454.335
+Anna Schroeder,48,Male,Bachelor,88712,Jamaica,0.6,10461.359999999999
+James Henderson,30,Male,Bachelor,49007,United States Minor Outlying Islands,0.5,6725.175
+Steven Wagner,27,Male,Master,91325,Cook Islands,0.1,1756.625
+Steven Novak,29,Male,PhD,40557,Guinea,0.4,7211.139999999999
+Sean Evans,53,Male,Bachelor,52499,Norfolk Island,0.9,15862.455000000002
+Charles Molina,37,Male,PhD,46186,Italy,0.1,2030.93
+Cynthia Oneal,44,Male,PhD,86260,Moldova,0.7,15619.099999999999
+Nathaniel Peters,31,Female,PhD,33505,El Salvador,0.3,5902.575
+Daniel Chen,23,Male,High School,21382,Congo,0.4,2427.6400000000003
+Benjamin Murphy,65,Female,PhD,56148,Panama,0.7,17365.18
+John White,40,Female,Master,30044,Colombia,0.3,5550.66
+Brian Moreno,55,Male,Bachelor,25943,Bahrain,0.1,1629.7150000000001
+Matthew Duncan,50,Male,PhD,52635,Palestinian Territory,0.8,16505.4
+Shannon Hogan,63,Male,Master,21768,Liechtenstein,1.0,18088.4
+Steven Klein,27,Female,Master,68106,Moldova,0.5,9202.65
+Christopher Collins,50,Female,Bachelor,22949,Ireland,0.8,12917.960000000001
+Kendra Mcclain,64,Male,PhD,64482,Slovenia,0.8,18579.28
+Juan Wade,37,Female,Bachelor,82317,Bangladesh,0.5,9557.925
+Alyssa Christensen,62,Female,Master,99048,Tonga,0.7,16766.68
+Leslie Esparza,43,Female,Master,94017,United States of America,0.4,8680.34
+Dan Frank,30,Female,Bachelor,54754,Marshall Islands,0.9,14163.93
+Bonnie Rojas,28,Male,PhD,64789,French Polynesia,0.5,9619.725
+Charlotte Fuentes,45,Female,PhD,89038,Maldives,0.1,2445.19
+Jessica Johnson,64,Male,Master,80138,Malta,0.2,4201.38
+Chelsea Allen,19,Male,High School,53600,Brunei Darussalam,0.1,768.0
+Jeffrey Brown,31,Male,Bachelor,67235,Lao People's Democratic Republic,1.0,14361.75
+Mary Welch,35,Male,High School,22706,Comoros,1.0,9135.3
+Benjamin Simmons,28,Female,Bachelor,71517,Peru,0.8,13260.68
+Terry Meza,65,Female,Master,31509,Djibouti,1.0,20575.45
+Justin Herrera,45,Male,High School,42569,Russian Federation,0.1,1212.845
+Michelle Schneider,56,Female,Master,47343,Netherlands Antilles,0.7,14957.005
+Holly Sweeney,30,Female,Bachelor,43437,Bahrain,0.8,12137.480000000001
+Marissa Lin,60,Male,PhD,96913,Pakistan,0.4,9938.260000000002
+Tammy Kennedy,18,Male,PhD,99230,Antarctica (the territory South of 60 deg S),0.1,1796.15
+Jared Vazquez,59,Male,High School,74961,Norway,0.5,7874.025
+James Howard,39,Male,High School,64450,Reunion,0.3,3966.75
+Rodney Bowen,38,Female,PhD,83078,Mozambique,1.0,24153.9
+Aaron Hughes,39,Female,High School,80117,Swaziland,0.3,4801.755
+Olivia Petty,24,Female,PhD,99692,Algeria,0.8,15987.68
+John Lewis,44,Male,PhD,36567,Mongolia,0.2,3965.67
+Nicole Cook DDS,55,Male,Bachelor,83213,Mauritania,0.5,9580.325
+Ashley Cruz,61,Male,PhD,54370,Niger,0.5,11359.25
+Pamela Cunningham,25,Female,High School,21058,Guinea,0.1,805.29
+Kelly Graves,56,Male,Bachelor,36104,Sri Lanka,0.7,11763.64
+Jeff Smith,42,Female,High School,61063,Turkmenistan,0.3,4515.945
+Samantha Mathews,23,Female,Bachelor,26384,Saint Barthelemy,0.4,4527.68
+Joshua Johnson,44,Male,High School,98522,Bahamas,0.7,10448.27
+Brian Houston,26,Female,PhD,73047,Russian Federation,0.9,19487.114999999998
+Justin Smith,21,Female,Bachelor,93474,Guernsey,0.3,4402.11
+Regina Reilly,59,Male,Bachelor,31702,Peru,1.0,16585.1
+Kevin Ruiz,48,Female,Master,53123,North Macedonia,0.4,7862.460000000001
+Robert Stone,43,Male,High School,88612,Cyprus,0.2,2886.1200000000003
+Maria Smith,18,Female,Bachelor,38461,Rwanda,0.9,10730.744999999999
+George Herrera,26,Male,Master,20842,Pitcairn Islands,0.6,8425.26
+Christopher Mcdaniel,27,Female,High School,31290,Bermuda,0.6,6938.7
+Michael Silva,31,Female,PhD,63491,United Kingdom,0.8,16939.64
+Lisa King,48,Male,High School,61356,Micronesia,0.8,10454.24
+Vincent Ballard,42,Female,PhD,92257,Sierra Leone,0.7,17228.995
+Jacob Park,51,Male,Bachelor,38838,Ukraine,0.7,11859.33
+Tina Sanders,50,Female,Bachelor,29236,Ukraine,0.3,4938.54
+Jamie King,27,Male,PhD,94082,Western Sahara,0.2,4140.82
+Nathaniel Martinez III,60,Male,Master,94093,Greenland,0.5,10852.325
+Julia Keller,40,Female,PhD,97525,Timor-Leste,0.6,14925.75
+Bryan Hood,65,Female,Master,50447,Sweden,0.9,19370.114999999998
+Amber Martinez,20,Female,Master,64861,Congo,0.9,13718.744999999999
+Jerry Gonzales,18,Male,High School,82297,Uganda,0.2,1822.9700000000003
+Maureen Castro,41,Female,Bachelor,91532,Nepal,0.1,1957.6599999999999
+Adam Nelson,51,Male,High School,94698,Namibia,0.6,10040.94
+Regina Douglas,20,Female,Bachelor,64683,Austria,0.5,6617.075
+Randy Gregory,49,Female,PhD,20170,Nauru,0.4,8403.4
+Cindy Graham,59,Female,Master,41065,Lebanon,0.1,2105.3250000000003
+Yolanda Thompson,65,Female,Bachelor,70498,Saudi Arabia,0.5,10262.45
+Michele Villa,61,Female,Bachelor,23577,Sweden,0.8,14543.08
+Jessica Nguyen,57,Male,PhD,61320,Uganda,1.0,23066.0
+Mary Hughes,38,Female,Bachelor,87161,Japan,0.7,13550.634999999998
+Michael Byrd,43,Male,Master,69936,Somalia,0.5,9248.4
+Douglas Anderson,33,Male,Master,51692,Costa Rica,0.9,14026.140000000001
+Angela Soto,55,Female,PhD,51216,Saint Lucia,1.0,24560.8
+Deborah Summers,39,Male,Master,51925,French Southern Territories,0.3,5278.875
+Nicole Gray,34,Male,High School,78575,Afghanistan,0.8,9543.0
+Shannon Davis,31,Male,Master,99329,Mongolia,0.4,7186.580000000001
+Erin Osborne,63,Male,PhD,47563,Ecuador,0.5,11189.075
+Jason Smith,42,Female,Bachelor,66392,United Arab Emirates,0.7,12823.719999999998
+Jordan Thomas,38,Male,High School,45177,Palestinian Territory,0.4,4903.54
+Abigail Hood,56,Male,PhD,30608,Namibia,0.5,10765.2
+Frank Allen,50,Female,PhD,75021,Saint Lucia,0.6,14250.63
+Veronica Miller,61,Female,High School,35077,Sweden,0.1,1575.3850000000002
+Vanessa Burns,39,Male,Master,93240,Norfolk Island,0.8,15729.6
+Douglas Owens,37,Female,PhD,69148,Colombia,0.4,9382.960000000001
+Lynn Andrade,61,Male,High School,31959,Sweden,0.9,12238.155
+Catherine Nelson PhD,19,Female,High School,93860,Uzbekistan,0.4,4677.2
+Amber Church,19,Male,High School,60906,Isle of Man,0.2,1609.0600000000002
+Clayton Weber,55,Female,Bachelor,95467,Ukraine,1.0,21773.35
+Jamie Harmon,51,Male,Master,58729,Ecuador,0.3,5980.935
+Donald Juarez,29,Male,Bachelor,37052,British Virgin Islands,0.4,5141.040000000001
+Mariah Ayala,34,Female,Master,39040,Sri Lanka,1.0,16952.0
+Nicole Haynes,35,Male,High School,37871,Luxembourg,0.7,6925.484999999999
+Kathleen Miller,29,Male,High School,66065,Bahamas,0.9,10172.925000000001
+Amy Smith,60,Female,Bachelor,55501,Tajikistan,0.2,3955.01
+Lindsay Mendez,64,Female,Bachelor,20533,Nicaragua,0.3,5407.995
+Ann Gates,31,Male,PhD,36666,Greece,0.3,5349.99
+Robert Conley,49,Male,Master,48834,Papua New Guinea,0.3,5232.51
+Sharon Brown,47,Female,PhD,50335,Kiribati,0.5,11258.375
+Gregory Morgan,61,Male,High School,65849,Marshall Islands,0.8,12233.960000000001
+Ryan Yang,35,Female,Master,48556,Marshall Islands,0.5,8713.9
+Dennis Garcia,53,Female,High School,42963,Zambia,0.7,11303.705
+Elizabeth Smith,25,Male,Bachelor,80400,Kazakhstan,0.3,3606.0
+Rachel Haney,45,Female,Bachelor,43283,Turkmenistan,0.2,3432.8300000000004
+Steve Stewart,34,Female,Master,69305,Taiwan,0.9,16618.725000000002
+Derek Weber,21,Female,PhD,70325,Saint Kitts and Nevis,0.9,16664.625
+Russell Huffman,26,Male,High School,60028,Saudi Arabia,1.0,11001.4
+Amy Brown,46,Female,Bachelor,81434,Taiwan,0.4,7628.68
+Peter Garcia,43,Male,High School,90163,Ethiopia,0.7,10155.705
+Andre Boyd,25,Female,Bachelor,24231,Antigua and Barbuda,0.4,4484.62
+Chelsea Mora,32,Male,High School,98447,Jordan,0.7,9045.645
+Luis Marsh,44,Male,Bachelor,88896,Indonesia,0.4,6977.92
+Jeffrey Ramos,31,Female,High School,45095,Madagascar,0.2,2450.9500000000003
+Casey Graves,50,Male,Bachelor,92120,Saint Kitts and Nevis,1.0,17606.0
+Patrick Gilbert,51,Female,PhD,54353,Bermuda,0.8,19774.120000000003
+Tyler Cardenas,58,Male,Master,65268,Russian Federation,0.4,8105.360000000001
+Laura Coleman,62,Male,Bachelor,77742,North Macedonia,0.4,7554.84
+Rachel Miller,51,Male,High School,38788,Guam,0.4,5575.76
+Chloe Case,47,Female,High School,99203,Northern Mariana Islands,0.5,8480.075
+Carrie Johnson,59,Female,PhD,63128,Nigeria,0.5,12578.2
+Timothy Miranda,60,Male,High School,85056,Suriname,0.6,9751.679999999998
+Mr. Nicholas Mason,57,Male,Bachelor,37838,Bulgaria,0.7,11824.33
+Rachel White,33,Male,PhD,57081,Saudi Arabia,0.3,5656.214999999999
+Billy Myers,51,Female,Bachelor,35172,United Kingdom,0.9,16882.739999999998
+Kara Brewer,38,Female,High School,67119,Albania,0.4,6142.380000000001
+Ashley Greene,30,Female,PhD,69656,Palau,0.7,15037.96
+Cindy Harrison,20,Male,PhD,30106,Iceland,0.5,7252.65
+Raymond Brown,58,Male,Bachelor,98952,Guatemala,0.8,15958.08
+Laura Howard,40,Male,Bachelor,95054,Micronesia,0.7,12426.89
+Jason Martinez,34,Male,High School,40680,Gambia,0.3,3010.2
+Victor Allen,46,Female,Bachelor,25021,Comoros,0.5,8125.525
+John Phelps III,48,Male,Master,32913,Lebanon,0.2,3329.1300000000006
+Kristin Cuevas,49,Male,High School,23946,United States Virgin Islands,1.0,11197.3
+Makayla Butler,23,Female,Master,96787,Syrian Arab Republic,0.5,8419.675
+Connie Thomas,62,Female,Bachelor,51141,Qatar,0.2,3911.41
+Charles White,61,Male,PhD,51875,Swaziland,0.1,2259.375
+Crystal Strickland,32,Male,Bachelor,40230,Morocco,1.0,13011.5
+Tyrone Wilson,57,Male,High School,33841,Cook Islands,0.5,6846.025
+Kristy Hunter,24,Female,PhD,95654,Mozambique,0.5,9891.35
+Melissa Johnson,55,Female,High School,29796,Mauritania,0.3,4646.94
+Tanya Brown,46,Male,Master,63628,Montserrat,0.5,9090.7
+Jeffery Delacruz,58,Female,PhD,22906,Jamaica,0.5,11572.65
+Rebecca Phelps,59,Male,Bachelor,31684,Jordan,1.0,16584.2
+Karen Bridges,64,Male,Bachelor,88536,Ghana,0.4,7770.72
+Jennifer Sherman,46,Female,High School,52831,Luxembourg,0.7,10249.085
+Dawn Davies,55,Male,Master,94643,Hungary,0.9,19558.935
+Patrick Watkins,42,Male,Master,32443,Saint Vincent and the Grenadines,0.8,13297.720000000001
+Jeremy Costa,59,Female,Bachelor,54317,Poland,0.5,9857.925
+Jennifer Coleman,23,Female,Bachelor,78974,Korea,0.1,1394.8700000000001
+Ryan Hall,42,Female,High School,57400,Mozambique,0.9,13383.0
+Brandy Grant DDS,57,Female,PhD,94573,Saint Helena,0.9,24055.785000000003
+Joseph Wells,30,Male,High School,54968,Netherlands,0.2,2149.68
+Mary Wright,42,Female,Bachelor,83543,Syrian Arab Republic,0.8,15341.720000000001
+Kristopher Brown,34,Female,Bachelor,99780,Paraguay,0.8,14391.2
+John Riley,35,Male,High School,47230,Benin,0.6,6216.9
+Heather Williams,34,Male,High School,77157,Armenia,0.5,5928.925
+Michael Brown,38,Male,Master,73779,Cuba,0.3,5606.685
+Bryan Gonzalez,59,Male,Bachelor,66856,Fiji,0.8,14674.24
+Zachary Mason,46,Male,Master,76057,Guam,0.7,13161.994999999999
+Karen Rodriguez,44,Female,High School,31507,Madagascar,0.9,12217.815
+Linda Savage,46,Male,High School,22038,El Salvador,0.9,9991.71
+Nicole Lee,62,Female,PhD,51122,Nigeria,0.7,17189.269999999997
+Stephanie Martinez,58,Male,PhD,27508,Greenland,0.5,10687.7
+Nicholas Thornton,56,Male,Master,56511,French Polynesia,0.9,17842.995
+Megan Vasquez,25,Female,High School,38933,Libyan Arab Jamahiriya,0.1,894.665
+William Rodriguez,23,Female,Master,79288,Mauritius,0.4,6385.76
+Kyle Anderson,33,Female,PhD,54278,Bahamas,0.9,18642.510000000002
+Timothy Mccann,28,Female,PhD,21946,Lesotho,0.2,3819.46
+Cheryl May,18,Male,Master,47226,Reunion,0.5,6180.65
+Vanessa Barnett,52,Male,Master,32127,Guam,0.2,3721.27
+Daniel Martin,52,Female,High School,52222,France,0.2,3322.22
+Christy Hays,61,Male,PhD,41702,Kenya,0.3,6625.53
+Patty Stokes,47,Female,Bachelor,77652,Nepal,1.0,18882.6
+Heather Mccarthy,19,Female,High School,36082,Argentina,0.2,1760.8200000000002
+Michael Davis,37,Male,PhD,47349,India,0.5,10183.725
+Johnny Torres,64,Female,Bachelor,80701,Bahrain,1.0,21035.05
+Samuel Vance,50,Female,Bachelor,75766,Palau,0.1,1878.83
+Joshua Craig,55,Female,Bachelor,57131,Saint Kitts and Nevis,0.6,11913.929999999998
+Sarah Rowe,50,Female,PhD,81283,Romania,0.5,12032.075
+Oscar Johnson,40,Female,Bachelor,44445,Lao People's Democratic Republic,0.4,6888.900000000001
+Rhonda Molina,47,Female,High School,68799,Angola,0.8,12351.960000000001
+Robert Davis,57,Female,Bachelor,22754,Cameroon,0.2,3627.5400000000004
+Robert Hoffman,47,Male,Bachelor,70944,Congo,1.0,16547.2
+Tyler Brown,39,Male,High School,84427,Madagascar,0.7,9954.945
+Bradley Boyd,47,Female,Master,21561,Malta,0.4,7231.22
+Anthony Thompson,54,Male,High School,84271,Ethiopia,0.3,4864.065
+Caitlin Shelton,60,Male,PhD,56561,Congo,0.4,9131.22
+Kim Spencer,23,Female,High School,91375,Guyana,0.8,9255.0
+John Hogan,63,Female,High School,45910,Nicaragua,1.0,16295.5
+Jackie Roberts,36,Female,PhD,87348,Israel,0.5,12183.7
+Daniel Fox,22,Male,High School,65368,Central African Republic,0.7,5787.879999999999
+David Serrano,59,Female,PhD,50435,Italy,0.5,12260.875
+Willie Tyler,49,Female,High School,77006,Monaco,0.5,7925.15
+Matthew Duffy,61,Female,Bachelor,72308,Mexico,0.7,14430.78
+Samantha Hansen,43,Female,PhD,91783,Haiti,0.6,14753.49
+Samantha Roberts,37,Female,Bachelor,65437,Palestinian Territory,0.1,1827.185
+Melinda Marshall,45,Female,PhD,60679,Angola,0.2,4606.79
+Stephen Williamson,61,Male,Master,50282,French Guiana,0.7,13659.869999999999
+Katherine Hartman,19,Female,Bachelor,43992,Ethiopia,0.8,9759.68
+Scott Kelly,22,Male,Bachelor,99160,Ukraine,0.1,1295.8000000000002
+Douglas Hall,32,Male,High School,88182,Armenia,0.7,8686.369999999999
+James Miller,61,Female,Bachelor,57937,Ireland,0.7,13927.794999999998
+Connor Matthews,46,Female,High School,40892,Venezuela,0.8,11235.68
+Elizabeth Diaz,28,Male,High School,82075,Lesotho,0.5,6051.875
+Kenneth Frazier,64,Female,Master,71273,French Southern Territories,0.1,2256.3650000000002
+Andrew Davis,55,Female,Master,80464,Serbia,0.2,4604.64
+Amy Thomas,21,Female,Bachelor,79609,Saint Barthelemy,0.5,6990.225
+Misty Hayes,53,Male,PhD,28918,Peru,0.7,15012.13
+Christie Huffman,20,Male,High School,68345,Israel,0.1,841.725
+Jennifer Joseph,36,Female,High School,20153,Zimbabwe,0.1,1300.765
+Lisa Shelton,57,Male,Bachelor,97851,Azerbaijan,0.3,5967.764999999999
+Brent Park,48,Male,Bachelor,22650,Gibraltar,0.9,12719.25
+Kyle Palmer,26,Male,High School,28561,Cayman Islands,1.0,9428.05
+Caleb Sullivan,60,Male,Bachelor,33121,Canada,0.8,13324.84
+Brenda Bonilla,45,Male,High School,82073,Seychelles,0.8,11282.920000000002
+Shaun Jackson,50,Male,High School,38113,Tonga,0.6,7143.389999999999
+Mary Hill,64,Female,Bachelor,30583,Guam,0.9,16676.235
+Kaitlin Murphy,20,Male,High School,69563,Wallis and Futuna,0.6,5086.889999999999
+Tina Simmons,51,Female,PhD,60201,Zambia,0.4,10004.02
+Gordon Jacobson,54,Male,Bachelor,99292,Guyana,0.7,13975.219999999998
+Anthony Fox,41,Female,Master,86244,Libyan Arab Jamahiriya,0.6,12787.32
+Robert Short,19,Male,High School,38759,Tuvalu,0.5,3468.975
+Jacob Erickson,65,Male,Bachelor,44407,British Indian Ocean Territory (Chagos Archipelago),0.2,3444.0699999999997
+Brittney Cohen,49,Female,Bachelor,56112,Comoros,0.5,8902.8
+Alicia Duncan,26,Male,Bachelor,66045,Libyan Arab Jamahiriya,0.6,8581.35
+Robert Freeman,30,Male,PhD,38954,Brazil,0.5,8973.85
+Jimmy Bowen,38,Male,High School,51845,Philippines,0.6,7555.349999999999
+Susan Carroll,43,Male,Master,70837,Martinique,0.9,16687.665
+Katelyn Snyder,40,Male,Master,50352,British Indian Ocean Territory (Chagos Archipelago),0.7,12262.319999999998
+Aaron Martin,20,Female,Master,40872,South Georgia and the South Sandwich Islands,0.5,7021.8
+Matthew Moore,20,Female,High School,63899,Tonga,0.7,7136.465
+Michael Weber,18,Female,Bachelor,43490,United States Minor Outlying Islands,0.5,6087.25
+Michael Patrick,41,Male,Bachelor,85198,Georgia,0.4,6903.960000000001
+Katie Cunningham,54,Male,PhD,57376,Canada,0.1,2286.88
+Edward Riggs,34,Male,High School,99532,Saint Pierre and Miquelon,0.3,3892.98
+Cassandra Armstrong,39,Male,PhD,50697,French Guiana,1.0,20534.85
+Robert Hernandez,53,Male,High School,91185,Canada,0.4,6623.700000000001
+Dana Roberts,47,Female,Master,65435,Mozambique,0.6,12163.05
+Keith Williams,25,Male,PhD,67668,Faroe Islands,0.3,4915.0199999999995
+Kathryn Leonard,48,Male,PhD,98627,Bouvet Island (Bouvetoya),0.1,2293.1349999999998
+Stephen Jones,60,Male,PhD,74182,Saint Barthelemy,0.7,16596.37
+Bryan Williams,28,Male,PhD,69974,Bhutan,0.8,15598.960000000001
+Anne Stewart,65,Male,Master,28279,Ireland,0.3,5524.185
+Matthew Ramirez Jr.,54,Male,Master,44193,Saint Kitts and Nevis,0.2,3841.9300000000003
+Jennifer Owens,27,Female,Bachelor,72157,Mauritania,0.5,8303.925
+Brooke Nelson,51,Female,Master,90579,Morocco,0.7,16470.265
+Ashley Marshall,49,Female,High School,52873,Rwanda,1.0,14643.65
+Tammy Nguyen,38,Female,Master,57342,Netherlands,0.7,13906.969999999998
+Denise Manning,56,Male,PhD,87337,Turks and Caicos Islands,0.9,21930.165
+Gregory Nixon,30,Female,Master,73303,New Caledonia,0.1,1866.5150000000003
+Brian Fleming,19,Female,High School,56471,Bahamas,0.1,982.355
+Ronald Tyler,19,Female,PhD,89930,Finland,0.6,11697.9
+Melissa Atkins,53,Female,PhD,92860,Turkey,0.8,21314.4
+James Brown,55,Male,High School,99582,Namibia,0.6,10187.46
+Charles Henderson,31,Female,PhD,28740,Venezuela,0.4,7774.8
+Brent Baker,24,Male,PhD,36870,Belize,0.8,11874.800000000001
+Jennifer Gutierrez,38,Female,Bachelor,84060,Norfolk Island,0.5,9601.5
+Thomas Castro,49,Female,Bachelor,25887,Italy,0.6,9776.61
+Connor Lee,50,Female,PhD,90137,Switzerland,1.0,24506.85
+Jeffery Adams,24,Female,Bachelor,86048,Palestinian Territory,0.3,4290.72
+Tiffany Reed,27,Male,Master,45501,Burkina Faso,0.1,1527.505
+Ronald Carter,19,Female,PhD,30220,Ghana,1.0,16511.0
+Stephanie Wagner,51,Male,Bachelor,81139,Nepal,1.0,19056.95
+Olivia Leon,26,Female,High School,59644,Mayotte,0.6,7789.32
+Jason Hayes MD,26,Female,Master,25604,Saint Pierre and Miquelon,0.6,9768.12
+Wanda Wiley,24,Male,High School,60165,Saint Pierre and Miquelon,0.5,4004.125
+Susan Juarez,55,Female,Bachelor,20931,Cayman Islands,0.8,14437.24
+Daniel Baker,43,Female,Bachelor,31970,Czech Republic,0.7,11618.949999999999
+Jessica Bell,35,Female,PhD,84592,French Guiana,0.7,15560.719999999998
+Jessica Tate,27,Female,Bachelor,75585,Micronesia,0.4,6711.700000000001
+Katherine Dominguez,35,Male,Bachelor,80946,Korea,0.6,9028.38
+Joshua Rowland,41,Female,PhD,65035,Georgia,0.4,9300.7
+Kevin Hubbard,28,Female,Bachelor,64545,Luxembourg,0.4,6490.900000000001
+Christian Black,49,Male,High School,90344,Haiti,1.0,14517.2
+Victor Baker,56,Female,Master,42831,Japan,0.2,4228.31
+Daniel Wright,60,Female,Bachelor,55692,Denmark,0.6,11870.759999999998
+Sarah Gibson,60,Male,High School,69655,Bermuda,0.6,9289.65
+Casey Mccoy,38,Female,Master,20197,Wallis and Futuna,0.4,7203.94
+Ian Morris,60,Female,Bachelor,42250,Australia,0.9,17201.25
+Anthony Moore,28,Female,Bachelor,30401,Honduras,0.9,13068.045
+Amanda Cohen,34,Male,High School,69656,Nauru,0.2,2296.56
+Sharon Savage,43,Female,PhD,38456,Rwanda,0.3,6576.839999999999
+Elizabeth Rodriguez,21,Male,Bachelor,35694,Latvia,0.7,6849.29
+Paula Branch,56,Male,Master,30726,Libyan Arab Jamahiriya,1.0,18536.3
+Dr. Cory Roth,55,Male,Bachelor,59600,Eritrea,0.7,12586.0
+Sara Marquez,29,Female,Master,64265,Bolivia,0.3,5463.974999999999
+Kathleen Smith,59,Female,Master,43226,Congo,0.3,6348.389999999999
+Samuel Fowler,64,Male,Bachelor,88173,Barbados,0.6,11645.19
+Candice Gilmore,61,Female,High School,63517,Georgia,0.9,15458.265
+Shannon Campbell,45,Female,PhD,27374,Turks and Caicos Islands,0.3,6410.61
+Krista Joyce,40,Male,PhD,49645,Benin,0.4,8192.9
+Emily Sanders,22,Male,PhD,76912,Russian Federation,0.2,3369.12
+Charles Williams,41,Male,High School,62252,Senegal,0.3,3933.7799999999997
+Angie Wheeler,30,Male,Master,85087,Slovakia (Slovak Republic),0.6,10352.609999999999
+Jason Bender,55,Female,Master,58796,Chile,0.1,2193.98
+Rebecca Johnson DDS,57,Male,Master,45652,Palau,0.9,17354.34
+Tammy Camacho,53,Male,Master,77634,Korea,0.3,6264.51
+Taylor Thomas,25,Male,PhD,89489,French Southern Territories,0.9,15727.005000000001
+Katherine Parrish,53,Female,PhD,61615,Martinique,1.0,25080.75
+Jacqueline Cross,39,Male,Master,84799,Chile,0.3,5771.985
+Tiffany Young,51,Male,PhD,38324,Guernsey,0.1,2191.6200000000003
+Tina Griffin,23,Male,Bachelor,34337,Eritrea,0.1,971.6850000000001
+Mrs. Nicole Sutton MD,38,Female,Bachelor,28219,Tokelau,0.1,1641.0950000000003
+Rita Poole,32,Male,Master,70176,Taiwan,0.9,14857.92
+Robert Scott,57,Female,PhD,47499,Palestinian Territory,0.7,17062.465
+Ryan Smith,64,Male,Bachelor,94575,Sao Tome and Principe,0.1,1972.875
+Alyssa Ortega,46,Male,PhD,40115,British Indian Ocean Territory (Chagos Archipelago),0.4,8002.3
+John Owens,22,Male,Master,56774,Philippines,0.5,6419.35
+George Golden,46,Female,PhD,84377,Slovenia,0.6,14531.31
+Lauren Brown,35,Female,PhD,90020,Holy See (Vatican City State),0.6,13500.6
+Alexis Potts,43,Female,PhD,56741,Congo,0.1,2283.705
+Theresa Ryan,31,Female,Master,72843,United Kingdom,0.7,13049.505000000001
+Michael Sullivan,65,Male,Bachelor,82563,French Southern Territories,0.4,7651.260000000001
+William Richards,28,Male,High School,55478,Andorra,0.9,9696.51
+Dorothy Allen,50,Male,Bachelor,83564,Lebanon,0.2,3435.6400000000003
+John Little,48,Male,PhD,44076,Israel,0.2,4040.76
+Scott Ramirez,21,Male,High School,32382,Cayman Islands,1.0,6619.1
+Adam Frazier,26,Male,Bachelor,67068,Central African Republic,0.6,8612.039999999999
+Francisco Ramirez,24,Male,PhD,84001,Burkina Faso,0.3,5160.014999999999
+Alexis Davis,39,Male,Bachelor,98275,Japan,1.0,17913.75
+Greg Mcgrath,46,Female,High School,38394,Belize,0.7,9743.789999999999
+Tammy Rojas,24,Male,Bachelor,43321,Congo,0.5,5083.025
+David Hernandez,35,Female,Bachelor,78404,Bouvet Island (Bouvetoya),0.6,10152.12
+Matthew Collins,52,Male,High School,71944,Libyan Arab Jamahiriya,0.1,1559.7200000000003
+Jordan Rodriguez,21,Male,Master,77042,Aruba,0.4,5540.84
+Anthony Norris,39,Female,High School,63019,Luxembourg,0.2,3030.1900000000005
+Janet Reyes,48,Female,Master,52114,Barbados,0.7,13723.99
+Laura Potter,63,Male,Master,63459,Pitcairn Islands,0.3,6051.885
+Mr. Jason Conway DDS,23,Female,PhD,20814,Namibia,1.0,16040.7
+Nathan Wagner,58,Male,Bachelor,93113,Western Sahara,1.0,19655.65
+Marie Brown,39,Female,High School,71060,Congo,0.5,7776.5
+Joe Fry,47,Female,High School,73015,Greece,0.1,1565.075
+Mrs. Cynthia Murphy,47,Male,Bachelor,59397,Cook Islands,0.6,9581.91
+Evan Carter,37,Male,PhD,78285,Saint Pierre and Miquelon,0.1,2191.425
+Betty Frazier,56,Female,Bachelor,74277,Azerbaijan,0.1,2071.3849999999998
+Leslie May,37,Male,Bachelor,30257,Belarus,0.7,10158.994999999999
+Charles Johns,50,Female,Bachelor,75070,Zimbabwe,0.6,11252.1
+Patricia Horn,26,Female,Bachelor,30804,Venezuela,0.2,2908.0400000000004
+Kimberly Burke,33,Male,Bachelor,82700,Guinea,0.4,6054.0
+Jennifer Leach,19,Female,Master,54643,Singapore,0.6,8839.289999999999
+Sarah Cortez,55,Female,PhD,88051,French Southern Territories,0.1,2640.255
+Patrick Hernandez,37,Female,PhD,49206,Sri Lanka,0.8,17968.24
+Justin Perkins,18,Female,Master,48098,Ethiopia,1.0,14404.9
+Ryan Davis,40,Female,Bachelor,43207,Papua New Guinea,0.5,8580.175
+Michael Scott,30,Male,Master,69542,Antigua and Barbuda,0.3,4943.129999999999
+Barbara Blanchard,37,Female,Bachelor,73179,Egypt,0.1,1865.8950000000002
+Christina Morris,60,Male,Bachelor,71161,Azerbaijan,0.7,12990.634999999998
+Kelly Morales DDS,23,Male,Bachelor,90214,Morocco,0.2,2502.1400000000003
+Andrea Harrison,31,Female,PhD,93124,Zambia,1.0,22656.2
+Andrea Thomas,24,Male,Bachelor,99376,Slovakia (Slovak Republic),1.0,12968.8
+Jeffrey Reilly,56,Male,PhD,54101,Austria,0.4,9082.02
+David Hood,52,Male,PhD,29603,Denmark,0.1,2148.0150000000003
+Douglas Gonzales,59,Male,Bachelor,42457,Togo,0.8,13698.279999999999
+Sylvia Hughes,60,Male,Master,95351,Trinidad and Tobago,1.0,21767.55
+Jeffrey Levy,23,Male,Master,91482,Madagascar,0.1,1457.41
+Eric Gray,57,Female,Master,91637,Sierra Leone,0.4,9432.74
+Tyler Burton,55,Female,High School,95225,Niue,0.7,13132.875
+Amy Butler,40,Male,Master,56694,Guinea-Bissau,0.6,10700.82
+Sarah Williams,24,Female,Bachelor,66151,Heard Island and McDonald Islands,0.1,1330.755
+Melvin Johnson,64,Male,PhD,21110,Ireland,0.7,14738.849999999999
+Melissa Fisher,32,Female,PhD,58522,India,0.1,2092.61
+Victoria Smith,29,Female,High School,21794,Tokelau,0.1,1108.97
+Barbara Murphy,23,Male,PhD,70287,Saint Vincent and the Grenadines,1.0,16514.35
+Wanda Ward,29,Male,High School,23907,Sierra Leone,0.1,919.5350000000001
+Joshua Ross,43,Female,Master,42434,Barbados,0.7,13385.19
+Danielle Clay,19,Female,PhD,87998,Netherlands Antilles,0.4,7759.960000000001
+Candice Chase,50,Female,Bachelor,24226,Malaysia,0.7,11347.909999999998
+Andrea Reeves,49,Male,Bachelor,64340,Liberia,0.8,12973.6
+Cynthia Nunez,64,Male,Bachelor,47834,Angola,0.1,1739.17
+John Osborne,30,Male,Master,62407,Kiribati,0.6,9672.21
+Deborah Crawford,64,Female,Bachelor,43658,Antarctica (the territory South of 60 deg S),1.0,19182.9
+Mike Campbell,64,Female,Master,27243,Turks and Caicos Islands,0.7,14253.505000000001
+Cathy Campos,25,Female,Bachelor,69806,Myanmar,0.4,5396.12
+Mikayla Foster,44,Female,Bachelor,93412,Thailand,0.8,15736.48
+Michael Owens,57,Female,High School,88787,Mongolia,0.4,7375.74
+Timothy Miller,31,Female,PhD,49392,Korea,1.0,20469.6
+Deborah Martinez,64,Male,High School,40091,Sudan,0.3,4201.365
+Natalie Bell,37,Male,Master,34914,Oman,0.3,5023.71
+Kimberly Duncan,57,Male,PhD,53608,Togo,0.1,2268.0400000000004
+Gregory Gonzalez,41,Male,High School,87512,Brunei Darussalam,0.4,5750.240000000001
+James Allen,63,Female,Master,74625,Malaysia,0.1,2273.125
+Lauren Taylor,33,Female,Bachelor,64200,Libyan Arab Jamahiriya,0.2,3242.0
+Jennifer Liu,62,Female,PhD,68641,Peru,0.5,12716.025
+Krystal Mitchell,21,Female,High School,67077,Cape Verde,0.5,5176.925
+Miss Jessica Ramirez,30,Female,Bachelor,51612,United States of America,0.4,6232.240000000001
+Renee Reid,30,Female,High School,90114,Oman,0.5,7252.85
+Jennifer Moore,60,Male,Master,71206,Sweden,0.1,2056.03
+Megan Proctor,52,Male,PhD,34355,Bahamas,0.5,10858.875
+Amy Knight,63,Male,Master,31248,Azerbaijan,0.2,3712.4800000000005
+Darren Wilson,50,Female,Master,43523,Spain,0.3,5752.845
+Jesse Williams,25,Female,Master,42802,Sweden,0.8,11312.080000000002
+Gregory Mccarthy,36,Male,Bachelor,30182,Rwanda,0.8,11607.28
+Ann Kent,30,Female,PhD,55201,Afghanistan,0.6,12456.029999999999
+Johnny Hall,24,Male,PhD,66037,Central African Republic,0.9,14671.665
+David Thompson,26,Male,PhD,72566,Yemen,0.8,15702.64
+Morgan Caldwell,38,Female,PhD,38475,Saint Kitts and Nevis,0.5,10961.875
+Mark Peterson,20,Female,High School,80763,Portugal,1.0,11038.15
+Veronica Garcia,29,Male,High School,71628,Tuvalu,0.4,4632.56
+Allison Gonzalez,36,Male,PhD,96477,Fiji,0.5,11411.925
+Ernest Christensen,52,Male,High School,72988,Algeria,0.7,10954.58
+Kenneth Ballard,51,Female,Bachelor,52164,Maldives,0.3,5882.46
+Tyler Wallace,59,Male,High School,90162,Djibouti,1.0,16508.1
+Christopher Chapman,27,Female,Master,83622,Bahamas,0.9,17262.989999999998
+Maria Morse,33,Female,Bachelor,98404,Chile,1.0,17920.2
+Dr. Emily Clark,29,Female,Bachelor,22852,Congo,0.6,8485.56
+Carolyn Simon,27,Male,Master,99484,South Africa,0.4,7189.68
+Anne Larson,24,Male,PhD,88549,Brazil,1.0,17427.45
+Brent Chapman,62,Female,Master,63928,Mongolia,1.0,22196.4
+Joshua Carey,23,Male,High School,72951,French Guiana,0.5,4323.775
+Chelsea Miller,50,Female,Bachelor,97108,Myanmar,0.6,11913.24
+Sara White,34,Male,PhD,36687,Serbia,0.1,1783.435
+Lisa Velasquez,60,Male,PhD,56832,Netherlands,0.6,13704.96
+Brent Mccoy,34,Female,High School,64992,New Caledonia,0.6,7949.76
+Aimee Morrison,58,Male,Master,67452,Burundi,0.6,12223.56
+Crystal Hughes,63,Female,Bachelor,22283,Puerto Rico,0.7,12679.905
+Amy Kennedy,58,Female,PhD,99016,Holy See (Vatican City State),0.1,2695.08
+Stephanie Davis,52,Male,Master,23171,Saint Martin,0.7,12710.984999999999
+Theresa Lambert,27,Male,Bachelor,26649,Afghanistan,0.9,11099.205000000002
+Sandra Shea,36,Male,Master,51774,Nigeria,1.0,17588.7
+Thomas Savage,23,Male,PhD,61600,Azerbaijan,0.5,8040.0
+Charles Simon,19,Male,PhD,56048,Reunion,0.7,11061.679999999998
+Michael Jones,31,Male,PhD,21424,Belgium,0.3,5121.36
+Melissa Horn,18,Male,High School,32036,Guyana,0.6,3961.08
+James Allen,21,Male,Bachelor,85062,Pakistan,0.5,6126.55
+Robert Macias DVM,37,Female,Master,85161,Vietnam,1.0,21258.05
+James Love,50,Male,Bachelor,37027,Aruba,0.4,5940.540000000001
+Angela Long,32,Male,Bachelor,33833,Switzerland,0.1,1269.165
+Kimberly Blackwell,56,Male,PhD,79396,Korea,0.8,19175.84
+Hector Moyer,43,Male,Master,88436,Poland,0.4,7768.72
+Edward Martin,26,Female,Master,72673,Denmark,1.0,18633.65
+Mrs. Helen Sanchez,51,Male,PhD,94796,Uganda,1.0,24739.8
+Daniel Schultz,33,Female,Master,92967,Tonga,0.5,9824.175
+Reginald Livingston,65,Male,Master,95144,Malaysia,0.5,10878.6
+Joseph Jones,62,Female,PhD,78546,Guadeloupe,0.2,5185.46
+William Bell,55,Female,Master,29992,Ireland,0.7,14349.719999999998
+Nancy Collins,39,Male,High School,63133,United Arab Emirates,1.0,13156.65
+Joseph Hess,24,Male,High School,22397,Martinique,0.1,611.985
+Brooke Carter,37,Female,High School,87741,Sri Lanka,0.1,1638.705
+Justin Blanchard,49,Male,Master,87463,Namibia,0.5,9686.575
+Jason Allen,34,Male,PhD,99090,Zimbabwe,0.8,16763.600000000002
+Heather Hansen,48,Female,Master,21952,Somalia,1.0,18097.6
+Alan Arias MD,56,Female,High School,64790,Antarctica (the territory South of 60 deg S),0.2,3447.9
+Brittany Ramsey,27,Female,PhD,54374,Antigua and Barbuda,0.6,12431.22
+George Flores,35,Male,Bachelor,92243,Uganda,0.8,12489.720000000001
+Francisco Obrien,47,Female,PhD,32318,Djibouti,0.2,4323.18
+Jillian Hoffman,61,Male,High School,52896,Azerbaijan,0.6,8786.88
+Nathan Jones,39,Female,High School,70317,Algeria,0.6,9309.51
+James James,29,Female,PhD,25808,Malta,0.9,17361.36
+Lisa Davis,50,Female,Master,55406,Sri Lanka,1.0,19770.3
+Gregory Taylor,58,Female,High School,65749,Georgia,0.1,1728.7450000000001
+Adam Ruiz,46,Male,Master,58611,Syrian Arab Republic,0.5,8965.275
+Angela Thompson,49,Male,PhD,40678,Maldives,0.4,8013.560000000001
+Christopher Cooper,40,Male,High School,26247,Luxembourg,0.7,7918.6449999999995
+Alexandra Nichols,46,Female,High School,62523,Kuwait,0.1,1512.615
+James Ewing,61,Male,PhD,52773,San Marino,0.4,9055.460000000001
+Deborah Yu,62,Male,PhD,33460,Holy See (Vatican City State),0.7,15171.099999999999
+Debra Thomas,53,Male,Master,33722,Burundi,0.3,5605.829999999999
+Cindy Singh,21,Male,Master,75457,New Zealand,0.9,12395.565
+Danny Lutz,60,Female,High School,63714,Vietnam,0.8,13748.560000000001
+Emily Campbell,55,Female,Master,63828,Puerto Rico,0.4,8876.560000000001
+Dr. Ashley Lopez,21,Male,PhD,88592,Nigeria,0.1,1742.96
+Gary Jones,61,Female,Master,25588,French Guiana,0.9,18251.460000000003
+Cameron Daniels,30,Male,Bachelor,23947,French Polynesia,0.9,10977.615
+Natasha Bennett,38,Male,Bachelor,94979,Tokelau,0.8,14199.160000000002
+Elizabeth Harris,52,Female,PhD,43552,Andorra,0.8,19342.079999999998
+Jordan Harper,34,Male,High School,67276,Guatemala,0.5,5681.9
+Michelle Nichols,65,Female,Master,50017,Azerbaijan,0.7,15050.594999999998
+James Lopez,18,Male,High School,37793,Nigeria,1.0,6889.65
+David Bennett,39,Male,High School,25449,Algeria,0.9,10145.205000000002
+John Lowery,28,Male,High School,38291,Jordan,0.3,2974.365
+Wendy Norman,53,Male,PhD,70979,Sao Tome and Principe,0.1,2354.895
+Jacob Rios,41,Female,Master,93859,Norfolk Island,0.1,2169.295
+Shannon Page,33,Male,Master,68148,Netherlands,0.6,9844.44
+Eric Powers,23,Female,Master,28482,Poland,0.7,9396.869999999999
+Rodney Mejia,30,Female,Master,39701,Iraq,0.4,6794.02
+Maria Jackson,51,Male,Bachelor,86267,Malaysia,0.2,3862.67
+Glenn Davis,38,Male,Bachelor,66881,Fiji,0.5,8172.025
+Daniel Hunt,47,Female,PhD,44238,Cocos (Keeling) Islands,0.7,15548.33
+Michelle Roman,44,Female,High School,61578,Slovenia,0.3,4523.67
+Bonnie Hansen,34,Male,Master,78670,Dominican Republic,0.2,3386.7000000000003
+Renee Jackson,41,Female,Master,66114,Palestinian Territory,0.3,6091.71
+Stephen Morrow,44,Male,Bachelor,40671,San Marino,1.0,15033.55
+Luis Shaw,47,Female,Bachelor,20206,Cook Islands,0.6,9606.179999999998
+Roger Martin,26,Male,PhD,73630,Peru,1.0,19681.5
+Blake Sanchez,24,Male,PhD,57931,Croatia,1.0,15896.55
+Veronica Sellers,62,Male,PhD,20403,Tanzania,1.0,21020.15
+Lisa Hendrix,32,Female,PhD,84710,Cape Verde,1.0,22235.5
+Jonathan Dorsey,45,Female,PhD,28001,Ghana,0.5,10700.025
+Cassandra Watson,29,Male,Master,35972,Saint Martin,0.9,13318.74
+Logan Reynolds,57,Female,Bachelor,95396,Bermuda,0.7,15238.859999999999
+Cindy Pena,32,Male,Master,22330,Timor-Leste,0.8,11293.2
+Rickey Hernandez,38,Female,Master,86587,Lesotho,0.4,8531.74
+Julie Knox,37,Male,PhD,38010,New Zealand,0.5,9950.25
+Margaret Tran,31,Female,High School,57605,Vietnam,1.0,12880.25
+Tonya Arnold,45,Male,High School,48924,Malawi,1.0,12446.2
+Derek Larson,42,Male,Master,95660,Mauritius,0.9,17804.7
+Taylor Williams,30,Male,PhD,94002,Belarus,0.8,16560.079999999998
+Robert Keith,41,Female,Bachelor,24034,British Virgin Islands,1.0,16201.7
+Ryan Smith,43,Female,Master,60588,Netherlands Antilles,0.3,6008.820000000001
+Jonathon Holder,36,Female,Master,72059,Antarctica (the territory South of 60 deg S),1.0,20602.95
+Kathryn Silva,33,Female,Bachelor,43961,Malaysia,0.8,12158.44
+Charles Jimenez,47,Male,PhD,46541,Thailand,0.9,18294.345
+Linda Bennett,36,Female,High School,60515,Reunion,0.5,7512.875
+Bonnie Odom,28,Male,Bachelor,60282,Guinea,0.3,4204.23
+James Mckee,28,Female,Bachelor,95620,Switzerland,1.0,17781.0
+Lisa Stone,28,Male,High School,36579,Kuwait,0.5,4914.475
+Douglas Scott,54,Female,Master,44343,Swaziland,0.1,2121.715
+Kelly Fuller,35,Female,High School,74219,Lebanon,0.5,6855.475
+Morgan Norman,39,Female,High School,92706,Malawi,0.9,14971.77
+Diane Singh,21,Male,Master,75594,Belize,1.0,13779.7
+Daniel Powell,48,Female,Bachelor,35639,Costa Rica,0.7,11747.365
+Lauren Fisher,44,Male,Master,91499,Iceland,0.6,11744.97
+Jeanne Perez,64,Male,High School,21213,Angola,0.3,3918.1949999999997
+Brenda Long,42,Female,High School,68834,Malawi,0.6,9265.02
+Briana Moore,51,Female,High School,33767,Greece,1.0,15688.35
+Heidi Lozano,53,Male,Bachelor,62304,Honduras,0.9,16303.68
+Linda Day,43,Male,High School,30880,Guyana,0.1,1154.4
+Christopher Jones,58,Female,Bachelor,73963,French Polynesia,1.0,20698.15
+Molly Rodriguez,62,Male,PhD,47156,Lesotho,0.6,13414.679999999998
+James Hall,23,Male,Bachelor,55825,Mozambique,0.4,4316.5
+Ryan Acevedo,60,Male,Bachelor,70421,Kenya,0.7,12964.734999999999
+Robin Huynh,30,Male,High School,88458,Antigua and Barbuda,0.5,6211.450000000001
+Mark Wright,44,Male,High School,67573,San Marino,0.6,8027.19
+Michael Andrews,34,Male,PhD,95920,Ukraine,0.4,8318.4
+Dr. Brian Williams,54,Male,High School,54788,Barbados,0.7,10317.58
+Tammy Roberts,59,Male,High School,33096,Swaziland,0.6,8192.88
+Brooke Smith,39,Male,Master,32823,Guadeloupe,0.4,6656.460000000001
+Adrian Wise,37,Male,High School,71323,Italy,0.8,10852.92
+Paul Maldonado,27,Female,Bachelor,37098,New Caledonia,0.4,5941.96
+Jennifer Caldwell,26,Male,High School,81298,Sierra Leone,0.8,9651.92
+Jennifer Reed,53,Male,PhD,52440,Belarus,0.4,9048.800000000001
+Justin Johnston,57,Male,Master,42895,Kenya,0.5,9572.375
+Chad Wu,24,Female,PhD,46459,Sao Tome and Principe,0.8,13858.36
+James Oliver,34,Female,Bachelor,79336,Egypt,0.3,5090.04
+James Jones,56,Male,PhD,65975,Zambia,0.7,16309.124999999998
+Timothy Malone,34,Female,Bachelor,37155,Papua New Guinea,1.0,14857.75
+Latoya Stuart,52,Female,High School,50725,Bosnia and Herzegovina,1.0,16536.25
+Kimberly Murphy,40,Female,High School,60052,Malaysia,0.8,12002.080000000002
+Jesus Sanders,31,Female,Bachelor,57925,Russian Federation,1.0,15896.25
+Eddie Clark,38,Male,Master,24581,Bouvet Island (Bouvetoya),0.7,11360.335
+Patricia Cline,64,Male,High School,26324,Costa Rica,0.1,1331.6200000000001
+Michael Schneider,44,Female,PhD,63465,Greenland,0.1,2317.3250000000003
+Ian Phillips,53,Female,High School,75148,Comoros,0.5,8878.7
+Scott Lopez,65,Male,Master,25826,Mexico,0.1,1829.13
+Rodney May,40,Male,High School,88912,Tajikistan,0.2,2889.1200000000003
+Kimberly Howard,54,Male,Bachelor,97603,Bahrain,1.0,19880.15
+Andre Wagner,44,Female,High School,34195,United States Minor Outlying Islands,0.3,4112.925
+Linda Hunter,25,Male,Bachelor,50324,Ethiopia,0.8,8412.960000000001
+Bradley Anderson,56,Female,PhD,46752,Grenada,0.1,2433.7599999999998
+William Wright,51,Female,High School,49951,Poland,0.3,4949.264999999999
+Joanne Watson,43,Female,High School,52276,Turks and Caicos Islands,0.4,5845.52
+Vincent Wallace,25,Male,PhD,84339,Benin,0.7,12051.865
+Jennifer Malone,34,Male,High School,92407,British Virgin Islands,0.7,8834.244999999999
+Laura Wright MD,27,Female,Bachelor,26321,Ecuador,0.5,7158.025
+Jason Haas,42,Female,PhD,98170,Bosnia and Herzegovina,0.7,17435.949999999997
+Sharon Valdez,39,Male,High School,59174,Eritrea,0.9,11662.830000000002
+Andrew Taylor,50,Male,Master,59808,Serbia,0.4,7196.160000000001
+Jessica Johnson,50,Female,Master,58272,Cyprus,0.7,13939.519999999999
+Brian Williams,38,Female,Bachelor,32512,Turkey,0.5,8312.8
